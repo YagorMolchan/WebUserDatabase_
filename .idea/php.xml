@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/libs/vendor/composer" />
+      <path value="$PROJECT_DIR$/libs/vendor/gabordemooij/redbean" />
+    </include_path>
+  </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="home.dev" id="bb1dac14-b8db-42f3-9ee9-b1999bb337bb" name="Apache on Xampp" />
+    </servers>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>

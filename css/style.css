@@ -1,0 +1,96 @@
+
+.form-signin{
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+ul{
+	list-style-type: none; 
+}
+
+
+
+/*.topmenu ul{
+	list-style_type:none;
+	padding: 0;
+	margin:0 auto;
+	width: 800px; 
+}
+
+.topmenu li{
+	display: block;
+	float:left;	
+	min-height: 25px;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	background-color: #5AD4B0; 
+}*/
+
+
+/*.topmenu li a:hover{
+	background-color: #51C4A2;
+	border-bottom: 2px solid #fff;
+}*/
+
+thead:first-child{
+	background-color: highlight;
+}
+
+.gr:hover{
+	background-color:azure;
+}
+
+.selected{
+	background-color: #9999FF;
+}
+
+
+
+
+
+
+
+
+
+/*nav {
+  display: block;
+  width: 660px;
+  margin: 0 auto 30px;
+}
+
+ul {
+  list-style: none; 
+  margin: 0 auto;
+}
+
+button {
+  text-decoration: none;
+  font-family: 'Lora', serif;
+  transition: .5s linear;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.four ul {
+  display: -webkit-flex; 
+  display: flex;
+  background: #FFD7A7;
+  padding-left: 0;
+}
+
+.four button {
+  padding: 1em;
+  display: block;
+  color: #9B4222;
+  border-right: 1px solid #FFAB51;
+  background: rgba(255, 171, 81, .3);
+}*/
+
+/*table thead{
+	background-color: black;
+	text-decoration-color: yellow;
+	font-style: bold;
+}*/
+
+
